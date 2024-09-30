@@ -1,5 +1,6 @@
 # Sokoban AI Solver Basic
 This is my assignment in the "Introduction to Artificial Intelligence" subject at College.
+The project is referenced and further expanded with player modes.
 
 The project is about building an AI solver for the game called SOKOBAN using python programming laguage.
 # Algorithm used
@@ -26,4 +27,3 @@ python main.py
 - If you cannot run the project, check for the python version (3.8.0 or more) and check whether you installed all necessary packages mentioned above.
 # Contact us
 - Contact me via email : vandanhphuc2k3@gmail.com
-- 
